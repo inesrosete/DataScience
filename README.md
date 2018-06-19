@@ -7,19 +7,17 @@ First of all let me introduce myself. I always had a curious and problem solver 
 
 Due to this and all my previous professional experiences I am deepening my data skills through self learning. I have improved my Python knowledge through a Coursera course and in the last few months I have been improving my machine learning knowledge through online courses and Kaggle challenges.
 
-Therefore, I decided to make public this repository, where you can find the Kaggle's challenges that I have been analyzing since Feb'18.
+Therefore, I decided to make this repository public, where you can find the Kaggle's challenges that I have been analyzing since Jan'18.
 
 #### Outline
 
 Ok! Let's fast-forward to the list of Codility's problems and Kaggle's challenges that I have analyzed:
 
-  * [Codility's Problems](https://github.com/inesrosete/DataScience/blob/master/python_exercises.ipynb) - proposes possible solutions to Codility's challenges with different levels of difficulty
+  * [Codility's Problems](https://github.com/inesrosete/DataScience/blob/master/python_exercises.html) - proposes possible solutions to Codility's challenges with different levels of difficulty
 
   * [Titanic Exploration](#) - like any data scientist this was my first Kaggle challenge and in this notebook I did feature engineering around raw titanic data; <img src="https://www.iconsdb.com/icons/preview/orange/star-8-xxl.png" width="10"> _(Available Soon)_ <img src="https://www.iconsdb.com/icons/preview/orange/star-8-xxl.png" width="10">
 
-  * [Flight Delays and Cancellations](https://github.com/inesrosete/DataScience/blob/master/flight_delays_exploration.ipynb) - is a Kaggle challenge where the goal is to predict when a flight is delayed. I decided to split this notebook into two sections: data exploration / understanding and model iteration.
-
-<img src="https://www.freeiconspng.com/uploads/green-pushpin-png-19.png" width="45">**Note:** Open all files with Ipython Notebook viewer.
+  * [Flight Delays and Cancellations](https://github.com/inesrosete/DataScience/blob/master/flight_delays_exploration.html) - is a Kaggle challenge where the goal is to predict when a flight is delayed. The goal was to go through all data science steps: basic statistics, baseline, data exploration / understanding, feature engineering and model iteration.
 
 Let me know your thoughts regarding what I'm doing and I am available to discuss any question that you possible have.
 
