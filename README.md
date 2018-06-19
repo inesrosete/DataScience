@@ -13,11 +13,11 @@ Therefore, I decided to make public this repository, where you can find the Kagg
 
 Ok! Let's fast-forward to the list of Codility's problems and Kaggle's challenges that I have analyzed:
 
-  * [Codility's Problems](#) - proposes possible solutions to Codility's challenges with different levels of difficulty
+  * [Codility's Problems](https://github.com/inesrosete/DataScience/blob/master/python_exercises.ipynb) - proposes possible solutions to Codility's challenges with different levels of difficulty
 
   * [Titanic Exploration](#) - like any data scientist this was my first Kaggle challenge and in this notebook I did feature engineering around raw titanic data; <img src="https://www.iconsdb.com/icons/preview/orange/star-8-xxl.png" width="10"> _(Available Soon)_ <img src="https://www.iconsdb.com/icons/preview/orange/star-8-xxl.png" width="10">
 
-  * [Flight Delays and Cancellations](#) - is a Kaggle challenge where the goal is to predict when a flight is delayed. I decided to split this notebook into two sections: data exploration / understanding and model iteration.
+  * [Flight Delays and Cancellations](https://github.com/inesrosete/DataScience/blob/master/flight_delays_exploration.ipynb) - is a Kaggle challenge where the goal is to predict when a flight is delayed. I decided to split this notebook into two sections: data exploration / understanding and model iteration.
 
 <img src="https://www.freeiconspng.com/uploads/green-pushpin-png-19.png" width="45">**Note:** Open all files with Ipython Notebook viewer.
 
